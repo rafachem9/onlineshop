@@ -1,4 +1,4 @@
-# ** Online Shop - Curso de Django**
+# **Online Shop - Curso de Django**
 
 - This repository contains Python code of Django Project from the course of  **[Pildoras Informaticas](https://www.youtube.com/watch?v=7XO1AzwkPPE&list=PLU8oAlHdN5BmfvwxFO7HdPciOCmmYneAB)**. 
 
