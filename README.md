@@ -1,10 +1,22 @@
-# Online Shop
-- Este repositorio es parte del curso de Youtube de Píldoras Informáticas
+# ** Online Shop - Curso de Django**
 
-## Notas 
-- Se ha ejecutado con Python 3.11.4 funciona, usando las librerías del requirements
+- This repository contains Python code of Django Project from the course of  **[Pildoras Informaticas](https://www.youtube.com/watch?v=7XO1AzwkPPE&list=PLU8oAlHdN5BmfvwxFO7HdPciOCmmYneAB)**. 
 
-## Ejecuciones en local:
+---
+
+### Python Version
+- The course uses **Python 3.11**.
+
+### Installing Dependencies
+All required libraries are listed in the `requirements.txt` file. To install the dependencies, run the following command in your terminal:
+
+
+```bash
+pip install -r requirements.txt
+```
+
+----
+## Local Execution
 - Añadir las siguientes variables de entorno:
 ```bash
 export EMAIL_BACKEND
@@ -15,5 +27,6 @@ export EMAIL_HOST_USER
 export EMAIL_HOST_PASSWORD
 export EMAIL_CONTACT
 ```
-- Ejecutar el proyecto en la carpeta Django: ``python manage.py runserver``
+- Execute in the project folder: ``python manage.py runserver``
+
 
